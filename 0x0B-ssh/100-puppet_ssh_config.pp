@@ -1,4 +1,4 @@
-# Set up server configuration with puppet
+# Set up server configuration with puppet 100
 file_line{'Set alias name':
   path => '/etc/ssh/ssh_config',
   line => 'Host 54.226.41.95
